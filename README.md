@@ -16,7 +16,7 @@
         - py -m venv venv
 
     - Linux and Mac
-        - pytohn3 -m venv venv
+        - python3 -m venv venv
 
 ## 3. Activate virtual enviroment
   #### - Commands:
