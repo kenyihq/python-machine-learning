@@ -2,7 +2,9 @@
 
 ## Instalation
 
-- Requirements: Python (3.X)
+- Requirements:
+  -Python (3.X)
+  -Git
 
 ## 1. Open terminal
   #### - Git clone
@@ -36,7 +38,7 @@
 
 ## 4. Install requirements
   #### - Activated virtual enviroment, execute:
-    - pip install requirements.txt
+    - pip install -r requirements.txt
 
 ## 5. Run
   #### - Execute:
