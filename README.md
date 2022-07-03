@@ -4,41 +4,40 @@
 
 - Requirements: Python (3.X)
 
-1. Open terminal
+## 1. Open terminal
+  #### - Git clone
+    - Command:
+      - git clone https://github.com/kenyihq/python-machine-learning.git
+      - cd python-machine-learning
 
-2. Git clone
-  - Command:
-    - git clone https://github.com/kenyihq/python-machine-learning.git
-    - cd python-machine-learning
-
-3. Create virtual enviroment
-  - Comands:
+## 2. Create virtual enviroment
+  #### - Comands:
     - Windows:
-        py -m venv venv
+        - py -m venv venv
 
     - Linux and Mac
-        pytohn3 -m venv venv
+        - pytohn3 -m venv venv
 
-4. Activate virtual enviroment
-  - Commands:
+## 3. Activate virtual enviroment
+  #### - Commands:
     - Windows:
-        Activate:
-        venv\Scripts\activate
+        - Activate:
+          - venv\Scripts\activate
 
-        Disabled:
-        deactivate
+        - Disabled:
+          - deactivate
 
     - Linux and Mac
-        Activate:
-        source venv/bin/activate
+        - Activate:
+          - source venv/bin/activate
         
-        Disabled:
-        deactivate
+        - Disabled:
+          - deactivate
 
-5. Install requirements
-  - Activated virtual enviroment, execute:
+## 4. Install requirements
+  #### - Activated virtual enviroment, execute:
     - pip install requirements.txt
 
-6. Run
-  - Execute:
+## 5. Run
+  #### - Execute:
     - jupyter notebook
