@@ -3,8 +3,8 @@
 ## Instalation
 
 - Requirements:
-  -Python (3.X)
-  -Git
+  - Python (3.X)
+  - Git
 
 ## 1. Open terminal
   #### - Git clone
