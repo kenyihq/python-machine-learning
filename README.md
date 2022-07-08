@@ -1,7 +1,5 @@
 # Introduction Machine Learning with Python
 
-# Introduction Machine Learning with Python
-
 # Instalation
 ### Requirements:
  
